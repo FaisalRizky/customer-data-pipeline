@@ -108,3 +108,10 @@ curl "http://localhost:8000/api/customers?page=1&limit=5"
 - **Flask Mock Server**: Serves data from a static JSON file with pagination logic.
 - **FastAPI Pipeline**: Uses the `dlt` library to handle data ingestion and upserts into PostgreSQL.
 - **PostgreSQL**: Stores customer data with a schema defined using SQLAlchemy.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/cdf22411-546c-4e8c-8583-59de9fc3774a
+
+
