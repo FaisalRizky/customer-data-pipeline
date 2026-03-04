@@ -112,6 +112,7 @@ curl "http://localhost:8000/api/customers?page=1&limit=5"
 ## Demo
 
 
-https://github.com/user-attachments/assets/cdf22411-546c-4e8c-8583-59de9fc3774a
+https://github.com/user-attachments/assets/fa4f7cd1-6eca-4d43-a29b-4c2df1c9bbb5
+
 
 
